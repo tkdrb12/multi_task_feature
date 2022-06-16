@@ -16,16 +16,13 @@ feature을 서로 바꿔 성능을 측정합니다. 측정 결과는 파일 안�
 
 # detection
 
-'''
-
+~~~
 COCO-Detection/faster_rcnn_R_50_FPN_3x.yaml
-
-'''
+~~~
 
 # segmentation
 
-'''
 
+~~~
 COCO-InstanceSegmentation/mask_rcnn_R_50 _FPN_3x.yaml
-
-'''
+~~~
