@@ -12,14 +12,20 @@ feature을 서로 바꿔 성능을 측정합니다. 측정 결과는 파일 안�
 -----------------------
 
 
-#사용 모델
+# 사용 모델
 
-#detection
+# detection
+
 '''
+
 COCO-Detection/faster_rcnn_R_50_FPN_3x.yaml
+
 '''
 
-#segmentation
+# segmentation
+
 '''
+
 COCO-InstanceSegmentation/mask_rcnn_R_50 _FPN_3x.yaml
+
 '''
